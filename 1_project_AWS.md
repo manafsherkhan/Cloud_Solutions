@@ -1,3 +1,5 @@
+Check it out here: https://lnkd.in/dT8g42_d
+
 Successfully Deployed Secure CloudBridge Infrastructure for Cross-Region Site-to-Site VPN Connection from On-Premises to AWS Site🚀 Successfully Deployed Secure CloudBridge Infrastructure for Cross-Region Site-to-Site VPN Connection from On-Premises to AWS Site
 
 - Multi-Region VPC Setup: Created two Virtual Private Clouds (VPCs) in different regions - Tokyo and Singapore - to establish a robust network infrastructure.
